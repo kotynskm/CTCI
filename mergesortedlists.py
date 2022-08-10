@@ -1,6 +1,6 @@
 """ Implement a function that merges two sorted lists of m and n elements respectively,
 
-into another sorted list. Name it merge_lists(lst1, lst2). """
+into another sorted list. Name it merge_lists(lst1, lst2). This is problem is from Educative.io DSA course. """
 
 def merge_lists(lst1, lst2):
     # set indexes for both lists
